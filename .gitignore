@@ -1,2 +1,8 @@
 node_modules
 .env
+PORT=10000
+DATABASE_URL=postgresql://postgres:xxxx@db.mjqgifuaquuzbwbmefru.supabase.co:5432/postgres
+SUPABASE_URL=https://mjqgifuaquuzbwbmefru.supabase.co
+SUPABASE_KEY=eyJhbGciOiJIUzI1NiIs...
+JWT_SECRET=abcd1234
+CLIENT_URL=https://myapp.vercel.app
